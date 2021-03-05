@@ -14,7 +14,7 @@
         - fzf
         - cmus
         - mc
-	- python3-psutil
+        - python3-psutil
 
   - name: copy wallpaper file
     copy:
