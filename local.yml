@@ -8,9 +8,9 @@
     package:
       name:
         - htop
-	- tmux
-	- nmon
-	- pydf
-	- fzf
-	- cmus
-	- mc
+        - tmux
+        - nmon
+        - pydf
+        - fzf
+        - cmus
+        - mc
