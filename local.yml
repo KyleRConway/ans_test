@@ -4,6 +4,13 @@
   become: true
 
   tasks:
-  - name: install htop
+  - name: install some packages
     package:
-      name: htop
+      name:
+        - htop
+	- tmux
+	- nmon
+	- pydf
+	- fzf
+	- cmus
+	- mc
